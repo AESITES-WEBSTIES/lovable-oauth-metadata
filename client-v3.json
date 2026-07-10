@@ -1,0 +1,17 @@
+{
+  "client_id": "client_id_metadata_document:https://aesites-websties.github.io/lovable-oauth-metadata/client-v3.json",
+  "client_name": "AE Sites Codex MCP Client",
+  "client_uri": "https://github.com/AESITES-WEBSTIES/lovable-oauth-metadata",
+  "application_type": "native",
+  "redirect_uris": [
+    "http://127.0.0.1:58333/callback/xiWPVRCgA_cb"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
